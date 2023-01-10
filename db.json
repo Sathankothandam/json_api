@@ -1,43 +1,5 @@
 {
-  "cars": [
-    {
-      "brand": "Maruti",
-      "types": "Automated",
-      "year": "2020",
-      "kms": "2000",
-      "desc": "its very good car",
-      "price": "78000",
-      "id": 2
-    },
-    {
-      "brand": "Maruti",
-      "types": "Manual",
-      "year": "2019",
-      "kms": "2000",
-      "desc": "its very good car",
-      "price": "23000",
-      "id": 3
-    },
-    {
-      "brand": "TATA",
-      "types": "Manual",
-      "year": "2020",
-      "kms": "2500",
-      "desc": "Cheap and best car",
-      "price": "34000",
-      "id": 4
-    },
-    {
-      "brand": "Maheendra",
-      "types": "Manual",
-      "year": "2020",
-      "kms": "8000",
-      "desc": "Good looking car",
-      "price": "70000",
-      "id": 5
-    }
-  ],
-  "wishlisted_cars": [
+  "dogs": [
    
   ]
 
